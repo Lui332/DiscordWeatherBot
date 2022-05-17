@@ -4,8 +4,8 @@ import json
 from weather import *
 from keep_alive import keep_alive
 
-token = 'ODc1MDQ2NDE4MTQwNzg2NzY5.YRP0ew.ra88iobQKes0cgzFyxJlpgyQNVw'
-api_key = '44494cd29593cb0ee92c2d22ec08c32a'
+token = ''              ##enter discord bot token
+api_key = ''            ##enter api key
 current_prefix = 'c.'
 daily_prefix = 'd.'
 client = discord.Client()
